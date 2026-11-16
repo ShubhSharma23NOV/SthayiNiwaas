@@ -1,4 +1,4 @@
-# SthayiNivas 🏡
+# SthayiNiwaas 🏡
 
 ### Real Estate Management Platform | Java • Spring Boot • MySQL
 
